@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.1 — 2026-10-29
+- Corrected the 154.5 kg measurement date to 2026-09-29 (nutritionist appointment), not 2026-10-29.
+- Updated the timeline and comparison interval to reflect the correct measurement date.
+- Flagged the next-appointment date 2026-10-04 as inconsistent with its description as upcoming, pending confirmation.
+
+
 ## 0.1.0 — 2026-10-29
 - Initialized public N=1 retrospective/longitudinal self-report.
 - Added historical pre-exposure body-composition assessments (January–April 2026).
