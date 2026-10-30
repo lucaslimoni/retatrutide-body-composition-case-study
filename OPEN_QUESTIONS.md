@@ -9,3 +9,5 @@
 7. Date each symptom precisely and note whether it coincided with other changes. Headaches and feeling spaced out are not proof of hypoglycemia.
 8. Review public-facing name, publication consent and privacy before adding further medical details.
 9. Independent review and clinical assessment would be needed before considering formal case-report publication.
+
+10. Clarify the date of the next nutritionist appointment: user said 2026-10-04 on 2026-10-29, which is already in the past; do not assume 2026-11-04.
