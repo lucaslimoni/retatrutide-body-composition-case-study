@@ -7,3 +7,12 @@ date_or_period,symptom_or_observation,direction,measurement,source_type,notes
 2026-09 onward,morning_headache,reported_present,,retrospective_self_report,Timing and resolution not systematically captured
 2026-09 onward,spaced_out_before_lunch,reported_present,,retrospective_self_report,No corroborating glucose measurement
 2026-09 onward,stomach_discomfort,reported_present,,retrospective_self_report,Reported following sweet popcorn on one occasion
+2026-10,post_exercise_throat_burning,reported_multiple_intense_episodes,,participant_self_report,Resolved spontaneously; possible reflux unconfirmed; medical assessment recommended
+2026-10,epigastric_discomfort,reported_single_episode,,participant_self_report,One upper central abdominal pain episode distinct from throat burning
+2026-10,discomfort_after_fatty_meals,reported_present,,participant_self_report,Next-day abdominal discomfort and food aversion; timing and causes uncertain
+2026-10,meal_capacity,reported_decrease,,participant_self_report,Smaller portions; long standing 1900 kcal daily meal plan; actual intake not measured
+2026-10,cardio_fatigue,reported_decrease,,participant_self_report,Lower perceived exertion with shorter 40 minute sessions compared with prior 60 minute sessions
+2026-10,cardio_heart_rate,approximately_112_bpm,112,participant_self_report,Earlier value approximately 115 bpm; measurements not standardized
+2026-10,motivation_to_run,reported_increase,,participant_self_report,Desire to run reported but no running started
+2026-10,cardio_break_this_week,reported_no_sessions,,participant_self_report,Planned resumption not yet confirmed
+2026-10,pre_training_meal_interval,approximately_one_hour,,participant_self_report,Usually eats one hour before strength training
