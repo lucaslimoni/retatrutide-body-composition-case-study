@@ -1,0 +1,9 @@
+date_or_period,symptom_or_observation,direction,measurement,source_type,notes
+2026-09 onward,appetite,reported_decrease,,retrospective_self_report,Reduced hunger and occasionally forgetting meals; precise onset unknown
+2026-09 onward,energy,reported_increase,,retrospective_self_report,Perceived increased disposition; no validated score
+2026-09 onward,sleepiness_after_cardio,reported_decrease,,retrospective_self_report,No formal sleep measures
+2026-09 onward,perceived_cardio_effort,reported_decrease,,retrospective_self_report,Training perceived as easier; pace and HR not matched
+2026-09 onward,abdominal_size,subjective_decrease,,retrospective_self_report,No post-exposure measurement available
+2026-09 onward,morning_headache,reported_present,,retrospective_self_report,Timing and resolution not systematically captured
+2026-09 onward,spaced_out_before_lunch,reported_present,,retrospective_self_report,No corroborating glucose measurement
+2026-09 onward,stomach_discomfort,reported_present,,retrospective_self_report,Reported following sweet popcorn on one occasion
