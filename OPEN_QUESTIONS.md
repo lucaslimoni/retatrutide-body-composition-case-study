@@ -11,3 +11,9 @@
 9. Independent review and clinical assessment would be needed before considering formal case-report publication.
 
 10. **Resolved:** next nutritionist appointment confirmed as **2026-11-04**. Obtain measurement results only after the visit; no future results have been recorded.
+
+11. Verify when the Sunday 16:00 schedule began, actual individual doses and route; do not infer missing injections.
+12. If symptoms recur, record dates and whether throat burning occurs during or after exertion, any chest pressure, breathlessness, or dizziness; obtain clinical assessment of intense exercise-associated burning.
+13. Characterize the one epigastric pain episode and separate next-day symptoms after high-fat meals; seek evaluation for severe or persistent pain.
+14. Verify whether 1,900 kcal represents a meal plan versus actual consumption and track any changes in intake.
+15. Document standardized session duration, speed, incline, heart rate, and perceived exertion for comparisons. Earlier sessions were 60 minutes, newer sessions 40; reported running motivation does not mean running occurred.
