@@ -1,0 +1,3 @@
+date,event,product_label,reported_nominal_mg,reported_frequency,actual_administered_mg_verified,source_type,notes
+2026-09-14,first_administration_reported,retatrutide,,weekly,,retrospective_self_report,Previously reported starting regimen 2.5 mg per week; exact administration details unavailable
+2026-10-29,current_regimen_reported,Thera,2.5,weekly,,participant_self_report,No comprehensive intervening injection record; actual dose and identity not independently verified
