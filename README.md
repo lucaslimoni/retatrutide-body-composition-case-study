@@ -1,6 +1,6 @@
 # Retatrutide and Body Composition: A Longitudinal Self-Reported Case Study
 
-> **Version:** 0.1.1 (2026-10-29) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+> **Version:** 0.1.2 (2026-10-29) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
 
 ## Abstract
 An adult resistance-trained participant reports initiating use of a product sold as retatrutide on **2026-09-14**, with a reported starting and current regimen of **2.5 mg once weekly**. The participant clarified on **2026-10-29** that **154.5 kg** was measured at a nutritionist visit on **2026-09-29**, not on October 29. The product was identified as **Thera**. Previous clinical body-composition assessments from January–April 2026 predate the reported exposure and are supplied as historical context, **not as treatment baseline measurements**. The participant retrospectively reported reduced appetite, greater energy, less post-cardio sleepiness, and headaches and other symptoms of uncertain temporal association. No standardized post-initiation body-composition assessment, laboratory confirmation of compound identity, systematic symptom diary, or controlled comparison is available. **No causal efficacy or safety conclusions can be drawn.**
@@ -25,7 +25,7 @@ An adult resistance-trained participant reports initiating use of a product sold
 
 Comparing **2026-04-22** with **2026-09-29** yields a weight difference of **+1.6 kg** across approximately five months, a period spanning substantial time *before* exposure. **This is not a valid estimate of the medication's effect.**
 
-**Scheduling uncertainty:** participant also described their 'next nutritionist appointment' as **2026-10-04**, which predates this 2026-10-29 correction. The intended date is unresolved (do not silently reinterpret as November 4).
+**Next nutritionist appointment:** **2026-11-04**, as explicitly confirmed by the participant on 2026-10-29 (correction of an earlier mistaken 2026-10-04 date). This is a planned appointment, not a completed clinical observation.
 
 ## Retatrutide exposure (documentation only; not dosage guidance)
 - First reported date: **2026-09-14**.
