@@ -1,6 +1,6 @@
 # Retatrutide and Body Composition: A Longitudinal Self-Reported Case Study
 
-> **Version:** 0.2.0 (2026-10-29) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+> **Version:** 0.2.1 (2026-10-29) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
 
 ## Abstract
 An adult resistance-trained participant reports initiating use of a product sold as retatrutide on **2026-09-14**, with a reported starting and current regimen of **2.5 mg once weekly**. The participant clarified on **2026-10-29** that **154.5 kg** was measured at a nutritionist visit on **2026-09-29**, not on October 29. The product was identified as **Thera**. Historical nutrition/body-composition data are reported for January–April and **2026-08-31** (pre-exposure), and **2026-09-29** (post-initiation); underlying reports have not been independently checked. The participant retrospectively reported reduced appetite, greater energy, less post-cardio sleepiness, and headaches and other symptoms of uncertain temporal association. A participant-reported post-initiation nutrition assessment is now documented, but the underlying report, laboratory confirmation of compound identity, systematic symptom diary and controlled comparison are unavailable. **No causal efficacy or safety conclusions can be drawn.**
@@ -63,3 +63,14 @@ The participant asked to prepare and publish this preliminary case study in thei
 
 ## Companion case
 A separate public self-report on bilateral epicondylitis and a product labeled BPC-157: [bpc157-epicondylitis-case-study](https://github.com/lucaslimoni/bpc157-epicondylitis-case-study). It is a distinct case and should not be used as evidence of retatrutide effects.
+
+## Participant follow-up — 2026-10-29 (self-report)
+
+- The current reported weekly routine is Sunday at 16:00, administered near the umbilicus; this is **not** confirmation that every previous Sunday included an administration. The nominal weekly regimen remains participant-reported as 2.5 mg.
+- Participant reports a long-standing **1,900 kcal/day dietary plan** for more than one year, predating exposure. Actual intake and adherence have not been measured. Typical meal timing is approximately one hour before strength training.
+- Participant describes markedly decreased appetite and meal capacity, sometimes aversion toward high-fat food, next-day abdominal discomfort after such meals, and one isolated episode of upper-central abdominal pain.
+- Several episodes of intense throat burning after workouts occurred during the preceding week, then resolved without medication or change in routine. A reflux mechanism is possible but unconfirmed, and exertion-associated symptoms merit medical assessment.
+- Cardio routine changed from two 60-minute sessions to two 40-minute sessions per day on a treadmill, with reported speed 5 km/h and 0% incline. Mean heart rates are recalled as approximately 115 bpm formerly and 112 bpm more recently, not under matched conditions. The participant did not perform cardio this week and intended to resume subsequently; resumption is not verified.
+- Participant reports markedly less tiredness during and after cardio and increased motivation to run, due to both ease of walking and perceived energy. **No running has been undertaken.** A specific contribution of glucagon-receptor activity remains speculative.
+
+These are unblinded self-reports with possible effects of shorter activity duration, training adaptation, diet, measurement variation and other factors. They do not establish safety, causation or treatment benefit.
