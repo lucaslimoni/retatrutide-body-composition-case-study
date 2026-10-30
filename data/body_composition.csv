@@ -3,4 +3,5 @@ date,phase,weight_kg,body_fat_percent,fat_mass_kg,lean_mass_kg,source_type,notes
 2026-02-18,pre_exposure,155.4,19.86,30.87,124.53,historical_assessment_reported,Underlying clinical record not independently verified here
 2026-03-18,pre_exposure,152.9,17.20,26.29,126.61,historical_assessment_reported,Underlying clinical record not independently verified here
 2026-04-22,pre_exposure,152.9,16.78,25.66,127.24,historical_assessment_reported,Not an immediate pre-treatment baseline
-2026-09-29,post_initiation,154.5,,,,nutritionist_visit_reported_by_participant,Measurement date clarified 2026-10-29; body composition not provided
+2026-08-31,pre_exposure,157.9,22.36,35.31,122.59,retrospective_diary_summary,Waist 120 cm; abdomen 130 cm; skinfold sum 152 mm; original report not independently reviewed
+2026-09-29,post_initiation,154.5,18.82,29.07,125.43,retrospective_diary_summary,Waist 115 cm; abdomen 120 cm; skinfold sum 124 mm; participant confirmed weighing date; original report not independently reviewed
