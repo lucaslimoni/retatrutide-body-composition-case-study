@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.2.1 — 2026-10-29
+- Documented self-reported updates on exercise workload, perceived exertion, appetite, gastrointestinal symptoms and current routine.
+- Distinguished observations from clinical interpretation; no causality established.
+
+
 ## 0.2.0 — 2026-10-29
 - Recovered 31 August and 29 September anthropometric data from prior diary conversation summary, with provenance and uncertainty flags.
 - Recorded the 29-day comparison, noting that the first 14 days precede exposure and changes cannot be attributed to the product.
