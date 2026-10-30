@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.2 — 2026-10-29
+- Confirmed the next planned nutritionist appointment as 2026-11-04 (correction of 2026-10-04).
+- Marked this as a future appointment, with no measurements presumed.
+
+
 ## 0.1.1 — 2026-10-29
 - Corrected the 154.5 kg measurement date to 2026-09-29 (nutritionist appointment), not 2026-10-29.
 - Updated the timeline and comparison interval to reflect the correct measurement date.
