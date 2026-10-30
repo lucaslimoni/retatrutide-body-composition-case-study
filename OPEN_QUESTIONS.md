@@ -1,10 +1,10 @@
 # Open questions and verification
 
-1. What was the measured body weight **close to 2026-09-14**, rather than months earlier?
+1. A pre-exposure weight of **157.9 kg on 2026-08-31** has been recovered; still seek a measurement **close to 2026-09-14**, and source verification of the August assessment.
 2. Confirm the actual formulation and label for **Thera** (photograph, nominal concentration, manufacturer, lot, expiry, independent COA if any). No photo has yet been provided for this project.
-3. Reconstruct actual historical administrations and dates, distinguishing *reported schedules* from actual doses; note omissions or changes. Do not infer missing weekly injections.
+3. Reconcile first three administrations (14 Sep ~23:00, 21 Sep ~09:00, 27 Sep date inferred); distinguish actual administrations from intended Monday-evening schedule and fill gaps without inventing weekly injections.
 4. Confirm clinical monitoring and any available glucose, HbA1c, lipid, liver, kidney, pancreatic or other labs, with dates and reference ranges. Do not publish identifiable raw health records.
-5. Record standardized, post-initiation body-fat/waist measurements if available; current post-initiation body fat is unknown.
+5. Recover source reports of **31 Aug and 29 Sep** assessments: 22.36% → 18.82% fat; waist 120 → 115 cm; abdomen 130 → 120 cm; skinfold sum 152 → 124 mm. Verify methods and the next appointment on 4 Nov.
 6. Confirm time-specific training, calorie intake and other medications/supplements. **BPC-157 was separately reported starting 2026-10-28**; it cannot account for prior September experiences.
 7. Date each symptom precisely and note whether it coincided with other changes. Headaches and feeling spaced out are not proof of hypoglycemia.
 8. Review public-facing name, publication consent and privacy before adding further medical details.
