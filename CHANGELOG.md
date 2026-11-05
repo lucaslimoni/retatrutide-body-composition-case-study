@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.2 — 2026-11-05
+- Added self-reported single symptom-free morning after a hot dog consumed 2026-10-29 during concomitant exposures.
+- Documented contemporaneous BPC-157 as a confounder; no efficacy, anti-inflammatory, or drug interaction conclusions.
+- Left outcomes for the planned 2026-11-04 nutrition appointment unfilled pending actual data.
+
+
 ## 0.2.1 — 2026-10-29
 - Documented self-reported updates on exercise workload, perceived exertion, appetite, gastrointestinal symptoms and current routine.
 - Distinguished observations from clinical interpretation; no causality established.
