@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.0 — 2026-11-05
+- Incorporated the participant-supplied 2026-11-04 nutritionist report and full anthropometric measurements.
+- Compared 2026-09-29 to 2026-11-04: weight -3.60 kg, estimated fat mass -2.50 kg, estimated lean mass -1.10 kg, waist/abdomen -5 cm each and skinfold sum -9 mm.
+- Documented intentional substantial reduction of cardio as a critical concurrent behavior, with actual weekly minutes unavailable.
+- Explained that neither lean-mass estimates nor observational temporal associations establish skeletal muscle changes, medication efficacy or causation.
+
+
 ## 0.2.2 — 2026-11-05
 - Added self-reported single symptom-free morning after a hot dog consumed 2026-10-29 during concomitant exposures.
 - Documented contemporaneous BPC-157 as a confounder; no efficacy, anti-inflammatory, or drug interaction conclusions.
