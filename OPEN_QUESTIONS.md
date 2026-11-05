@@ -23,3 +23,6 @@
 
 18. Quantify the actual reduction in completed cardio sessions during October and verify whether the 1900 kcal/day meal plan approximated actual consumption.
 19. Confirm whether the 2026-11-04 report was measured using the same assessor, skinfold sites, caliper and body-fat estimation equation as on 2026-09-29.
+
+20. Document exercise-specific loads, repetitions, sets, range of motion, tempo, perceived effort/proximity to failure and rest periods across matched sessions to objectively assess the reported improvement in performance.
+21. Distinguish the previous month's reportedly increasing working loads from the current month's intentional lower-load, technique-focused protocol, including approximate start dates.
