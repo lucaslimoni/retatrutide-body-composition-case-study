@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.2 — 2026-11-05
+- Clarified two-second peak-contraction hold across most exercises, with a deliberate exception for biceps/triceps.
+- Recorded 12 repetitions + 10 seconds of rest + 10 repetitions as one extended arm set (rest-pause-like), without inferring exercise load or efficacy.
+
+
 ## 0.3.1 — 2026-11-05
 - Added self-reported improved resistance-training performance in the preceding month during reduced cardio.
 - Separately documented current technique-focused training, lighter weights, >8 reps, two-second peak contractions and 1–2 minute rests.
