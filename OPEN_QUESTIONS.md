@@ -19,4 +19,7 @@
 15. Document standardized session duration, speed, incline, heart rate, and perceived exertion for comparisons. Earlier sessions were 60 minutes, newer sessions 40; reported running motivation does not mean running occurred.
 
 16. Verify the timing and circumstances of the 2026-10-29 meal and the absence of symptoms reported the next day. This is one observation without causal inference.
-17. Check whether the planned 2026-11-04 nutrition appointment occurred; no new measurements have been provided.
+17. **Resolved:** the 2026-11-04 nutritionist assessment image was supplied, with weight 150.90 kg and estimated fat fraction 17.61%. Confirm consistency of assessment methods across September and November.
+
+18. Quantify the actual reduction in completed cardio sessions during October and verify whether the 1900 kcal/day meal plan approximated actual consumption.
+19. Confirm whether the 2026-11-04 report was measured using the same assessor, skinfold sites, caliper and body-fat estimation equation as on 2026-09-29.
