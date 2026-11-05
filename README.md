@@ -1,6 +1,6 @@
 # Retatrutide and Body Composition: A Longitudinal Self-Reported Case Study
 
-> **Version:** 0.2.1 (2026-10-29) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+> **Version:** 0.2.2 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
 
 ## Abstract
 An adult resistance-trained participant reports initiating use of a product sold as retatrutide on **2026-09-14**, with a reported starting and current regimen of **2.5 mg once weekly**. The participant clarified on **2026-10-29** that **154.5 kg** was measured at a nutritionist visit on **2026-09-29**, not on October 29. The product was identified as **Thera**. Historical nutrition/body-composition data are reported for January–April and **2026-08-31** (pre-exposure), and **2026-09-29** (post-initiation); underlying reports have not been independently checked. The participant retrospectively reported reduced appetite, greater energy, less post-cardio sleepiness, and headaches and other symptoms of uncertain temporal association. A participant-reported post-initiation nutrition assessment is now documented, but the underlying report, laboratory confirmation of compound identity, systematic symptom diary and controlled comparison are unavailable. **No causal efficacy or safety conclusions can be drawn.**
@@ -74,3 +74,9 @@ A separate public self-report on bilateral epicondylitis and a product labeled B
 - Participant reports markedly less tiredness during and after cardio and increased motivation to run, due to both ease of walking and perceived energy. **No running has been undertaken.** A specific contribution of glucagon-receptor activity remains speculative.
 
 These are unblinded self-reports with possible effects of shorter activity duration, training adaptation, diet, measurement variation and other factors. They do not establish safety, causation or treatment benefit.
+
+## Cross-exposure symptom observation — 2026-10-30; status reviewed 2026-11-05
+
+The participant reported eating a hot dog on **2026-10-29** and experiencing **no usual next-day stomach discomfort or malaise on 2026-10-30**. This meal preceded the *third reported* BPC-157 administration, but occurred after earlier reported administrations, while the participant also reported retatrutide exposure. A single episode cannot establish the safety of the meal, the effects of either substance, or any protective interaction. No systematic re-challenge, symptom scale, gastrointestinal diagnosis, or independent observation was performed.
+
+On 2026-11-05, the participant additionally reported near-absence of bilateral elbow pain and continued daily BPC-157 exposure. These are relevant **concomitant-exposure confounders**, not evidence of a beneficial retatrutide–BPC-157 combination. The nutrition appointment previously planned for 2026-11-04 has **no results recorded here**; do not assume it occurred.
