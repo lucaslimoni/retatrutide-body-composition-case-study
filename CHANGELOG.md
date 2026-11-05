@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.5 — 2026-11-05
+- Added full paired circumferences, skinfolds and arm area indices using the participant-supplied September and November report images.
+- Flagged divergent hip and suprailiac measurements for verification and avoided attributing changes to a single exposure.
+
+
 ## 0.3.4 — 2026-11-05
 - Confirmed three extended working sets each of Scott/preacher curls and cable French triceps extensions.
 - Documented up to 66 target reps per exercise and 132 combined, conditional on completion of all reps; no assumption about load or other exercises.
