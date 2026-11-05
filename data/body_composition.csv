@@ -5,3 +5,4 @@ date,phase,weight_kg,body_fat_percent,fat_mass_kg,lean_mass_kg,source_type,notes
 2026-04-22,pre_exposure,152.9,16.78,25.66,127.24,historical_assessment_reported,Not an immediate pre-treatment baseline
 2026-08-31,pre_exposure,157.9,22.36,35.31,122.59,retrospective_diary_summary,Waist 120 cm; abdomen 130 cm; skinfold sum 152 mm; original report not independently reviewed
 2026-09-29,post_initiation,154.5,18.82,29.07,125.43,retrospective_diary_summary,Waist 115 cm; abdomen 120 cm; skinfold sum 124 mm; participant confirmed weighing date; original report not independently reviewed
+2026-11-04,post_initiation,150.9,17.61,26.57,124.33,participant_supplied_nutrition_report_image,Waist 110 cm; abdomen 115 cm; hip 137 cm; skinfold sum 115 mm; markedly less cardio by report; 1900 kcal dietary plan reported
