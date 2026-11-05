@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.1 — 2026-11-05
+- Added self-reported improved resistance-training performance in the preceding month during reduced cardio.
+- Separately documented current technique-focused training, lighter weights, >8 reps, two-second peak contractions and 1–2 minute rests.
+- Explicitly distinguished intentional load reduction from demonstrated strength loss and flagged absence of objective performance logs.
+
+
 ## 0.3.0 — 2026-11-05
 - Incorporated the participant-supplied 2026-11-04 nutritionist report and full anthropometric measurements.
 - Compared 2026-09-29 to 2026-11-04: weight -3.60 kg, estimated fat mass -2.50 kg, estimated lean mass -1.10 kg, waist/abdomen -5 cm each and skinfold sum -9 mm.
