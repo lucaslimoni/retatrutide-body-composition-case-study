@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.4 — 2026-11-05
+- Confirmed three extended working sets each of Scott/preacher curls and cable French triceps extensions.
+- Documented up to 66 target reps per exercise and 132 combined, conditional on completion of all reps; no assumption about load or other exercises.
+
+
 ## 0.3.3 — 2026-11-05
 - Clarified that the extended rest-pause-like approach is applied to every working set of Scott/preacher curls and cable French triceps extensions, not all arm exercises.
 - Recorded 12 reps, 10-second pause, up to 10 more reps, occasional 3–4-second extra pauses near failure, and unknown number of working sets.
