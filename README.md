@@ -1,6 +1,6 @@
 # Retatrutide and Body Composition: A Longitudinal Self-Reported Case Study
 
-> **Version:** 0.2.2 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+> **Version:** 0.3.0 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
 
 ## Abstract
 An adult resistance-trained participant reports initiating use of a product sold as retatrutide on **2026-09-14**, with a reported starting and current regimen of **2.5 mg once weekly**. The participant clarified on **2026-10-29** that **154.5 kg** was measured at a nutritionist visit on **2026-09-29**, not on October 29. The product was identified as **Thera**. Historical nutrition/body-composition data are reported for January–April and **2026-08-31** (pre-exposure), and **2026-09-29** (post-initiation); underlying reports have not been independently checked. The participant retrospectively reported reduced appetite, greater energy, less post-cardio sleepiness, and headaches and other symptoms of uncertain temporal association. A participant-reported post-initiation nutrition assessment is now documented, but the underlying report, laboratory confirmation of compound identity, systematic symptom diary and controlled comparison are unavailable. **No causal efficacy or safety conclusions can be drawn.**
@@ -23,10 +23,11 @@ An adult resistance-trained participant reports initiating use of a product sold
 | 2026-08-31 | Pre-exposure | 157.9 | 22.36 | 35.31 | 122.59 | Retrospective nutrition assessment summary |
 | 2026-09-14 | First exposure reported | — | — | — | — | No same-day measurement |
 | 2026-09-29 | Post-initiation | 154.5 | 18.82 | 29.07 | 125.43 | Retrospective nutrition assessment summary |
+| 2026-11-04 | Post-initiation | 150.9 | 17.61 | 26.57 | 124.33 | Participant-provided nutrition assessment image |
 
 **31 August to 29 September (29 days):** reported weight 157.9 → 154.5 kg (**−3.4 kg**); fat fraction 22.36% → 18.82% (**−3.54 percentage points**); estimated fat mass 35.31 → 29.07 kg (**−6.24 kg**); estimated lean mass 122.59 → 125.43 kg (**+2.84 kg**). Waist 120 → 115 cm (**−5 cm**), abdominal circumference 130 → 120 cm (**−10 cm**), sum of skinfolds 152 → 124 mm (**−28 mm**, measurement protocol unverified). This 29-day interval includes **14 days before the first exposure**. Measurement variability and confounding prevent attribution to retatrutide. Numeric body-composition changes are assessment-derived estimates, **not proof of actual fat or muscle changes**.
 
-**Next nutritionist appointment:** **2026-11-04**, as explicitly confirmed by the participant on 2026-10-29 (correction of an earlier mistaken 2026-10-04 date). This is a planned appointment, not a completed clinical observation.
+**Nutritionist appointment completed:** **2026-11-04**. The participant supplied an image of the anthropometric report on 2026-11-05. The original report itself has not been uploaded to this public repository to avoid exposing unnecessary personal information.
 
 ## Retatrutide exposure (documentation only; not dosage guidance)
 - First reported date: **2026-09-14**.
@@ -56,7 +57,7 @@ This is a descriptive, single-participant longitudinal self-observation. The rec
 For future comparisons, record measured body weight under comparable conditions, appetite and well-being, exact symptom dates, treatment changes, and training/diet context; any laboratory or clinical data should be interpreted with a qualified clinician.
 
 ## Limitations and safety
-This uncontrolled, non-blinded N=1 self-report is vulnerable to recall bias, expectancy effects, measurement variability and major confounding. Different body-composition methods can vary substantially. A post-initiation body-fat assessment was retrospectively reported but has not been source-verified; there are no controlled tests and no evidence here for efficacy, dose-response, durability or safety. Retatrutide is investigational and should not be treated as a validated self-medication protocol.
+This uncontrolled, non-blinded N=1 self-report is vulnerable to recall bias, expectancy effects, measurement variability and major confounding. Different body-composition methods can vary substantially. The November post-initiation body-composition report is available as a participant-provided image, but measurement accuracy and repeatability have not been independently verified; there are no controlled tests and no evidence here for efficacy, dose-response, durability or safety. Retatrutide is investigational and should not be treated as a validated self-medication protocol.
 
 ## Ethics, consent and reuse
 The participant asked to prepare and publish this preliminary case study in their public GitHub repository. This is not institutional ethics approval or consent for unrelated sharing of private health records. Before attaching any clinical records, lab results, addresses, photographs or batch labels, remove personal identifiers and review them individually. No treatment instructions are offered.
@@ -79,4 +80,47 @@ These are unblinded self-reports with possible effects of shorter activity durat
 
 The participant reported eating a hot dog on **2026-10-29** and experiencing **no usual next-day stomach discomfort or malaise on 2026-10-30**. This meal preceded the *third reported* BPC-157 administration, but occurred after earlier reported administrations, while the participant also reported retatrutide exposure. A single episode cannot establish the safety of the meal, the effects of either substance, or any protective interaction. No systematic re-challenge, symptom scale, gastrointestinal diagnosis, or independent observation was performed.
 
-On 2026-11-05, the participant additionally reported near-absence of bilateral elbow pain and continued daily BPC-157 exposure. These are relevant **concomitant-exposure confounders**, not evidence of a beneficial retatrutide–BPC-157 combination. The nutrition appointment previously planned for 2026-11-04 has **no results recorded here**; do not assume it occurred.
+On 2026-11-05, the participant additionally reported near-absence of bilateral elbow pain and continued daily BPC-157 exposure. These are relevant **concomitant-exposure confounders**, not evidence of a beneficial retatrutide–BPC-157 combination. The 2026-11-04 nutritionist assessment is now documented below based on the image provided by the participant.
+
+## Nutritionist follow-up — 2026-11-04 (source: report image supplied 2026-11-05)
+
+The latest report states height **1.68 m**, body weight **150.90 kg**, fat fraction **17.61%**, fat mass **26.57 kg**, lean mass **124.33 kg**, BMI **53.47**, waist **110 cm**, abdomen **115 cm**, hip **137 cm**, shoulder **162 cm**, chest **142 cm**, and skinfold sum **115 mm**. This is an actual documented appointment rather than a planned future measurement. The case report does **not** establish biochemical markers, imaging-based muscle mass, or the accuracy of the estimation equations.
+
+### September-to-November comparison (36 days)
+
+| Measure | 2026-09-29 | 2026-11-04 | Change |
+|---|---:|---:|---:|
+| Body weight | 154.50 kg | 150.90 kg | -3.60 kg |
+| Estimated body-fat percentage | 18.82% | 17.61% | -1.21 percentage points |
+| Estimated fat mass | 29.07 kg | 26.57 kg | -2.50 kg |
+| Estimated lean mass | 125.43 kg | 124.33 kg | -1.10 kg |
+| Waist | 115 cm | 110 cm | -5 cm |
+| Abdomen | 120 cm | 115 cm | -5 cm |
+| Sum of skinfolds | 124 mm | 115 mm | -9 mm |
+
+Estimated lean mass is **not equivalent to skeletal muscle mass**: hydration, glycogen, anthropometric measurement variability and calculation methods may affect it. Likewise, apparent changes in fat mass do not prove a medication effect. Comparisons of derived body-composition results assume similar methods and assessor conditions, which have not been independently verified.
+
+### Training and diet context / change in cardio exposure
+
+The participant explicitly reports **substantially reducing cardio during the preceding month, intentionally to observe what happened**, while continuing resistance training, the existing stated **1,900 kcal/day diet plan**, and retatrutide exposure. Specific completed weekly cardio minutes, nutritional adherence, and exercise loads were not measured; previous reports described a reduced usual plan of two 40-minute treadmill sessions per day, with a temporary week without sessions. A deliberate change in one behavior **does not create a controlled experiment**: changes in energy intake, activity, body water, measurement conditions and other factors remain possible confounders. BPC-157 was also reported as introduced on **2026-10-28**; thus concomitant exposure exists for the final days of the interval.
+
+### Full anthropometric report, 2026-11-04
+
+| Measurement | Value |
+|---|---:|
+| Height | 1.68 m |
+| Weight | 150.90 kg |
+| Shoulder / chest | 162 / 142 cm |
+| Waist / abdomen / hip | 110 / 115 / 137 cm |
+| Right / left thigh | 75 / 75 cm |
+| Right / left calf | 45 / 45 cm |
+| Right / left relaxed arm | 50 / 50 cm |
+| Right / left flexed arm | 58 / 58 cm |
+| Right / left forearm | 38 / 39 cm |
+| Abdominal / suprailiac / subscapular skinfold | 31 / 12 / 21 mm |
+| Thigh / triceps / mid-axillary / chest skinfold | 12 / 11 / 16 / 12 mm |
+| BMI | 53.47 kg/m² |
+| Waist-to-hip ratio reported | 0.80 |
+| Arm muscular area / arm fat area | 172.39 / 26.55 (units not supplied) |
+
+**Interpretation boundaries:** this remains an uncontrolled, non-blinded self-report of an investigational product. There is no verified mechanism, efficacy or safety inference from the observed trend. Do not attempt to replicate the exposure or restrict nutrition for the purpose of this case report.
