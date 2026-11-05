@@ -17,3 +17,6 @@
 13. Characterize the one epigastric pain episode and separate next-day symptoms after high-fat meals; seek evaluation for severe or persistent pain.
 14. Verify whether 1,900 kcal represents a meal plan versus actual consumption and track any changes in intake.
 15. Document standardized session duration, speed, incline, heart rate, and perceived exertion for comparisons. Earlier sessions were 60 minutes, newer sessions 40; reported running motivation does not mean running occurred.
+
+16. Verify the timing and circumstances of the 2026-10-29 meal and the absence of symptoms reported the next day. This is one observation without causal inference.
+17. Check whether the planned 2026-11-04 nutrition appointment occurred; no new measurements have been provided.
