@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.3 — 2026-11-05
+- Clarified that the extended rest-pause-like approach is applied to every working set of Scott/preacher curls and cable French triceps extensions, not all arm exercises.
+- Recorded 12 reps, 10-second pause, up to 10 more reps, occasional 3–4-second extra pauses near failure, and unknown number of working sets.
+
+
 ## 0.3.2 — 2026-11-05
 - Clarified two-second peak-contraction hold across most exercises, with a deliberate exception for biceps/triceps.
 - Recorded 12 repetitions + 10 seconds of rest + 10 repetitions as one extended arm set (rest-pause-like), without inferring exercise load or efficacy.
