@@ -1,6 +1,6 @@
 # Retatrutide and Body Composition: A Longitudinal Self-Reported Case Study
 
-> **Version:** 0.3.0 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+> **Version:** 0.3.1 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
 
 ## Abstract
 An adult resistance-trained participant reports initiating use of a product sold as retatrutide on **2026-09-14**, with a reported starting and current regimen of **2.5 mg once weekly**. The participant clarified on **2026-10-29** that **154.5 kg** was measured at a nutritionist visit on **2026-09-29**, not on October 29. The product was identified as **Thera**. Historical nutrition/body-composition data are reported for January–April and **2026-08-31** (pre-exposure), and **2026-09-29** (post-initiation); underlying reports have not been independently checked. The participant retrospectively reported reduced appetite, greater energy, less post-cardio sleepiness, and headaches and other symptoms of uncertain temporal association. A participant-reported post-initiation nutrition assessment is now documented, but the underlying report, laboratory confirmation of compound identity, systematic symptom diary and controlled comparison are unavailable. **No causal efficacy or safety conclusions can be drawn.**
@@ -124,3 +124,11 @@ The participant explicitly reports **substantially reducing cardio during the pr
 | Arm muscular area / arm fat area | 172.39 / 26.55 (units not supplied) |
 
 **Interpretation boundaries:** this remains an uncontrolled, non-blinded self-report of an investigational product. There is no verified mechanism, efficacy or safety inference from the observed trend. Do not attempt to replicate the exposure or restrict nutrition for the purpose of this case report.
+
+## Resistance-training performance follow-up — reported 2026-11-05
+
+The participant described **increased training loads and intensity during the preceding month**, despite substantially reduced cardio and a lower measured body weight at the 2026-11-04 nutrition appointment. This is a subjective retrospective report: exercise-by-exercise loads, repetitions, sets and comparable objective performance tests were not provided. Consequently it does not establish gains in maximal strength or skeletal muscle mass, nor can it be causally attributed to retatrutide.
+
+For the **current month**, the participant reports a deliberate shift toward **execution technique rather than absolute load**: lighter weights, more controlled movements, approximately **two-second peak contractions**, **1–2 minute rest intervals** varying with the target muscle group, and sets generally **above eight repetitions**, with loads selected around an **8–12 repetition range**. Training intensity is described as high by the participant, but volume, proximity to failure and exercise comparability have not been objectively measured.
+
+**Interpretation:** reductions in selected working weights during a technique-focused phase should not be coded as strength loss. Equally, improved subjective performance cannot independently demonstrate muscle preservation. This training change is an additional confounder in the interpretation of anthropometric estimates, energy expenditure and functional outcomes.
