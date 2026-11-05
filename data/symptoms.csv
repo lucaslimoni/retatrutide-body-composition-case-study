@@ -16,3 +16,4 @@ date_or_period,symptom_or_observation,direction,measurement,source_type,notes
 2026-10,motivation_to_run,reported_increase,,participant_self_report,Desire to run reported but no running started
 2026-10,cardio_break_this_week,reported_no_sessions,,participant_self_report,Planned resumption not yet confirmed
 2026-10,pre_training_meal_interval,approximately_one_hour,,participant_self_report,Usually eats one hour before strength training
+2026-10-30,post_high_fat_meal_symptoms,absent_on_this_occasion,,participant_self_report,Hot dog consumed 2026-10-29 before third reported BPC-157 administration; no customary next-day stomach pain or malaise; one episode only; cause unknown
