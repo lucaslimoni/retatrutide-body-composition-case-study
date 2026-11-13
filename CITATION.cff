@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this repository as a non-peer-reviewed, uncontrolled, self-reported case dataset (N=1)."
+type: dataset
+title: "Retatrutide and Body Composition: An Uncontrolled Self-Reported Longitudinal Case Dataset"
+authors:
+  - family-names: "Limoni"
+    given-names: "Lucas"
+version: "0.4.0"
+date-released: 2026-11-13
+url: "https://github.com/lucaslimoni/retatrutide-body-composition-case-study"
+abstract: "Publicly shared self-reported longitudinal case observations; no demonstrated causality or established treatment efficacy."
+keywords:
+  - "self-reported case study"
+  - "longitudinal observation"
+  - "body composition"
+  - "retatrutide"
