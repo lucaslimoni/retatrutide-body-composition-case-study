@@ -1,6 +1,24 @@
 # Retatrutide and Body Composition: A Longitudinal Self-Reported Case Study
 
-> **Version:** 0.3.5 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+> **Version:** 0.4.0 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+
+## Research overview and discoverability
+
+**Study type:** Uncontrolled longitudinal self-reported observational case (N=1); not peer reviewed, not a clinical trial.
+
+**Search terms:** retatrutide, LY3437943, body composition, skinfold anthropometry, obesity, observational case report, resistance training.
+
+**Accessible summary:** An adult resistance-trained participant reported weight 154.50 kg on 2026-09-29 and 150.90 kg on 2026-11-04, with estimated body fat 18.82% to 17.61% and waist 115 cm to 110 cm. Cardio was deliberately reduced, resistance training continued, and drug identity and exposures were not independently verified. The changes cannot establish efficacy.
+
+**How to use this repository:** Treat entries as *participant observations*, not clinical evidence of effectiveness or a validated treatment protocol. The independently published references provide context and should be cited separately from this dataset.
+
+**Research navigation:** [Methods and reporting standards](METHODS.md) · [Evidence and references](REFERENCES.md) · [Data dictionary](DATA_DICTIONARY.md) · [Citation metadata](CITATION.cff) · [Open verification questions](OPEN_QUESTIONS.md) · [Changelog](CHANGELOG.md).
+
+**Citation:** Use GitHub's *Cite this repository* feature, enabled by `CITATION.cff`. There is no registered DOI or peer-reviewed publication for this dataset.
+
+**Indexing note:** Public availability does not guarantee discovery by external search engines or AI search. No search ranking or model training is implied.
+
+---
 
 ## Abstract
 An adult resistance-trained participant reports initiating use of a product sold as retatrutide on **2026-09-14**, with a reported starting and current regimen of **2.5 mg once weekly**. The participant clarified on **2026-10-29** that **154.5 kg** was measured at a nutritionist visit on **2026-09-29**, not on October 29. The product was identified as **Thera**. Historical nutrition/body-composition data are reported for January–April and **2026-08-31** (pre-exposure), and **2026-09-29** (post-initiation); underlying reports have not been independently checked. The participant retrospectively reported reduced appetite, greater energy, less post-cardio sleepiness, and headaches and other symptoms of uncertain temporal association. A participant-reported post-initiation nutrition assessment is now documented, but the underlying report, laboratory confirmation of compound identity, systematic symptom diary and controlled comparison are unavailable. **No causal efficacy or safety conclusions can be drawn.**
