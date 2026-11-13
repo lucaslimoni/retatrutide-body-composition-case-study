@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.4.0 — 2026-11-13
+- Added English search terms, structured research overview and internal documentation navigation.
+- Published METHODS.md, REFERENCES.md, DATA_DICTIONARY.md and CITATION.cff for transparent methods, source verification and reusable citation metadata.
+- Distinguished self-reported observations from research evidence and clarified lack of peer review, verified compound identity and causal conclusions.
+
+
 ## 0.3.5 — 2026-11-05
 - Added full paired circumferences, skinfolds and arm area indices using the participant-supplied September and November report images.
 - Flagged divergent hip and suprailiac measurements for verification and avoided attributing changes to a single exposure.
