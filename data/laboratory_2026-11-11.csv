@@ -1,0 +1,40 @@
+analyte,unit,previous_date,previous_value,current_date,current_value,lab_reference,source_pdf_page,source_type,notes
+erythrocytes,million/mm3,2026-09-16,4.75,2026-11-11,4.56,4.4-5.9,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+hemoglobin,g/dL,2026-09-16,14.1,2026-11-11,13.5,13.0-18.0,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+hematocrit,%,2026-09-16,41.7,2026-11-11,40.1,40.0-52.0,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+rdw,%,2026-09-16,10.8,2026-11-11,11.7,10.8-13.0,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+mcv,fL,2026-09-16,87.8,2026-11-11,87.9,80-100,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+mch,pg,2026-09-16,29.7,2026-11-11,29.6,26-34,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+mchc,%,2026-09-16,33.8,2026-11-11,33.7,30-36,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+white_blood_cells,/mm3,2026-09-16,10910,2026-11-11,9320,3800-11000,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+neutrophils_absolute,/mm3,2026-09-16,6001,2026-11-11,5499,1800-7700,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+lymphocytes_absolute,/mm3,2026-09-16,3491,2026-11-11,2703,1000-5200,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+monocytes_absolute,/mm3,2026-09-16,1200,2026-11-11,1025,0-1000,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+platelets,/mm3,2026-09-16,252400,2026-11-11,267400,140000-450000,1,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+serum_iron,ug/dL,2026-09-16,95.1,2026-11-11,65.4,65-170,2,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+ferritin,ng/mL,2026-09-16,341,2026-11-11,323.5,23.9-336.2,2,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+fasting_glucose,mg/dL,2026-09-16,85,2026-11-11,73,<100,3,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+urea,mg/dL,2026-09-16,41.5,2026-11-11,36.3,10-50,3,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+creatinine,mg/dL,2026-09-16,1.01,2026-11-11,1.23,0.7-1.3,4,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+vitamin_d_25oh,ng/mL,2026-09-16,18.7,2026-11-11,17.8,20-60 general population,5,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+vitamin_b12,pg/mL,2026-09-16,465,2026-11-11,512,130-868 male,6,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+cortisol_morning,ug/dL,2026-09-16,14.72,2026-11-11,6.75,6.7-22.6,8,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+dht,pg/mL,2026-09-16,246,2026-11-11,186,143-842 male,9,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+estradiol,pg/mL,2026-09-16,45,2026-11-11,29,<33 male,10,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+fasting_insulin,uIU/mL,2026-09-16,8.9,2026-11-11,6.9,1.9-23,11,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+progesterone,ng/mL,2026-09-16,1.08,2026-11-11,0.77,0.14-2.06 male,12,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+prolactin,ng/mL,2026-09-16,6.23,2026-11-11,6.85,2.1-17.7 male,13,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+t3_total,ng/mL,2026-09-16,1.24,2026-11-11,1.16,0.70-2.04 adult 20-50,14,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+t4_total,ug/dL,2026-09-16,13.2,2026-11-11,12.1,5.1-14.1 age >12,15,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+free_testosterone_calculated,ng/dL,2026-09-16,4.35,2026-11-11,6.08,3.74-16.62 male <50,15,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+total_testosterone,ng/dL,2026-09-16,212,2026-11-11,297,240-871 male,16,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+transferrin,mg/dL,2026-09-16,213.2,2026-11-11,189.3,200-360,17,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+tsh,uIU/mL,2026-09-16,4.54,2026-11-11,3.05,0.38-5.33 adult,18,participant_supplied_clinical_report,Laboratory-reported values; no causal inference
+shbg,nmol/L,,,2026-11-11,30.7,11.2-78.1 male,11,participant_supplied_clinical_report,No comparable 2026-09-16 value shown in November report
+hdl_cholesterol,mg/dL,,,2026-11-11,39.6,>40,6,participant_supplied_clinical_report,No comparable 2026-09-16 value shown in November report
+ldl_cholesterol,mg/dL,,,2026-11-11,107,risk-dependent,7,participant_supplied_clinical_report,No comparable 2026-09-16 value shown in November report
+total_cholesterol,mg/dL,,,2026-11-11,171,<190,8,participant_supplied_clinical_report,No comparable 2026-09-16 value shown in November report
+vldl_cholesterol,mg/dL,,,2026-11-11,26.4,not defined,8,participant_supplied_clinical_report,No comparable 2026-09-16 value shown in November report
+triglycerides,mg/dL,,,2026-11-11,132,<150 fasting,17,participant_supplied_clinical_report,No comparable 2026-09-16 value shown in November report
+egfr_ckd_epi_lab_reported_non_race_adjusted,mL/min/1.73m2,,,2026-11-11,74.53,clinical interpretation required,4,participant_supplied_clinical_report,No comparable 2026-09-16 value shown in November report
+homa_ir_estimated,unitless,2026-09-16,1.868,2026-11-11,1.244,no universal diagnostic threshold,3 and 11,derived_from_fasting_glucose_and_insulin,Fasting glucose mg/dL times fasting insulin uIU/mL divided by 405; not proof of insulin sensitivity change
