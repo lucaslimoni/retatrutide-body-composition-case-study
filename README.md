@@ -1,6 +1,6 @@
 # Retatrutide and Body Composition: A Longitudinal Self-Reported Case Study
 
-> **Version:** 0.4.0 (2026-11-05) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
+> **Version:** 0.5.0 (2026-11-18) · **Status:** preliminary, retrospective and ongoing self-report (N=1). **Not peer reviewed; not a clinical trial; not medical advice.** Retatrutide is an investigational compound; neither this report nor its exposure history is a recommendation to use it.
 
 ## Research overview and discoverability
 
@@ -166,3 +166,10 @@ The participant reports **three extended working sets per exercise**, for **Scot
 ## Full September–November anthropometry
 
 The original September assessment image was subsequently supplied, permitting direct comparison of all seven individual skinfolds and 13 matched circumference sites. See [complete comparison](data/anthropometry_comparison_2026-09-29_2026-11-04.md). The hip circumference increased 129 to 137 cm (+8 cm), while the suprailiac skinfold fell 31 to 12 mm (-19 mm); both large discordant differences warrant verification of the assessment technique. Four of seven individual skinfolds increased despite the total dropping from 124 to 115 mm. No cause or tissue-level change is inferred from the isolated values.
+
+## Laboratory follow-up — 2026-11-11
+
+The participant shared an 18-page laboratory report collected on **2026-11-11**, with previous values printed for **2026-09-16**, a **near-initiation** reference two days after the reported first retatrutide exposure. The report is not published in original form due to personal identifiers. See the [anonymized laboratory data](data/laboratory_2026-11-11.csv) and [comparative interpretation](data/lab_comparison_2026-09-16_2026-11-11.md).
+
+Selected paired results: fasting glucose 85 → 73 mg/dL, fasting insulin 8.9 → 6.9 uIU/mL, creatinine 1.01 → 1.23 mg/dL, 25-OH vitamin D 18.7 → 17.8 ng/mL, total testosterone 212 → 297 ng/dL, serum iron 95.1 → 65.4 ug/dL and transferrin 213.2 → 189.3 mg/dL. Changes in fasting glucose and insulin were observed, but **cannot be attributed to retatrutide**. Renal markers, iron-related indices and vitamin D warrant medical review. Other co-exposures, exercise, diet and assay variability are major confounders; this is not a safety evaluation.
+
