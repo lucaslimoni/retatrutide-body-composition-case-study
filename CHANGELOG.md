@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.5.0 — 2026-11-18
+- Added anonymized laboratory values collected 2026-11-11, including earlier comparisons printed in the clinical report.
+- Published structured laboratory CSV and interpretation notes, with original identifiable PDF excluded.
+- Clarified that the September 16 comparison follows the first reported retatrutide exposure; no causal inference or compound safety conclusion.
+- Flagged creatinine, iron/transferrin, vitamin D and uncertain endocrine findings for medical interpretation.
+
+
 ## 0.4.0 — 2026-11-13
 - Added English search terms, structured research overview and internal documentation navigation.
 - Published METHODS.md, REFERENCES.md, DATA_DICTIONARY.md and CITATION.cff for transparent methods, source verification and reusable citation metadata.
